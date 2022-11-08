@@ -1,0 +1,10 @@
+version: "2.0.0"
+banner: vulab
+repository:
+  domain: vulab.io
+  accessKey:
+  appId:
+database:
+  path: repo/vulab.db
+update:
+  url: https://archive.vulab.io/dist/vulab-startup/
